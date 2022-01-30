@@ -2,8 +2,8 @@
 
 hi! im anna poutanen
 
-high school student with an intrest for coding
+im a high school student with an intrest for coding
 
-python, javascript
+my favourite languages are python and javascript
 
 i also enjoy digital art and reading
